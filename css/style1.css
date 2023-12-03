@@ -1,0 +1,31 @@
+h1{
+color:brown;
+
+}
+div.contenedor nav{
+background-color: beige;
+
+}
+ul a{
+color:rgb(126, 230, 22);
+}
+ul > li{
+margin:8px;
+     
+}
+article p{
+
+    line-height: 2px;
+}
+section > article{
+    border: 1px solid #000;
+
+}
+footer p {
+
+    color:deeppink;
+}
+footer{
+    background-color: black;
+    height: 30px;
+}
