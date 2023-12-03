@@ -1,0 +1,32 @@
+h1{
+
+color:chocolate;
+
+}
+div.contenedor h1{
+background-color:bisque;
+
+}
+article.articulo p {
+    line-height: 2px;
+    
+   /* //line-height: normal;
+    line-height: 80%;
+    line-height: 10px;*/
+}
+section > article {
+
+    border: 1px solid #000;
+}
+ul a {
+
+    color:blueviolet;
+}
+footer p {
+
+    font-size: 22px;
+}
+aside{
+
+    width: 155px;
+}
